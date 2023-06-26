@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"fmt"
-	typer "github.com/apooravm/goTyper/typer"
+	typer "github.com/apooravm/TerminalSpeedTyper/typer"
 )
 
 type JsonData struct {

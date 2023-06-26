@@ -1,4 +1,4 @@
-module github.com/apooravm/goTyper
+module github.com/apooravm/TerminalSpeedTyper
 
 go 1.20
 
