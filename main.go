@@ -32,6 +32,6 @@ func main() {
 	fmt.Println("Passage:", TextData.Passage)
 	fmt.Println("Phrases:", TextData.Phrases)
 
-	typer.Start(TextData.Phrases[0])
+	typer.Start(TextData.Passage[0])
 }
 
