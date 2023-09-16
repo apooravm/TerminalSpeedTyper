@@ -3,16 +3,14 @@ A terminal based thing to practice your typing skills (ig)
 
 ---
 
-## Initialize and Install Dependencies
+### Installation
 
 ``` bash
-go mod init github.com/apooravm/TerminalSpeedTyper && go get
+make install
 ```
 
----
+### Build and run
 
-## Build and run
-
-``` bash
-go build . && ./TerminalSpeedTyper
+```bash
+make run
 ```
